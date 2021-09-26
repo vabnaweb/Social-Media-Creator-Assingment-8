@@ -1,0 +1,32 @@
+.creator{
+   background-image: linear-gradient(rgb(151, 181, 187),white);
+    margin: 5px;
+    padding: 30px;
+    border-radius:20px ;
+    border:2px solid whitesmoke;
+    
+}
+.creator img{
+    height:200px;
+    clip-path: circle();
+}
+.btn-regular{
+    background-image: linear-gradient(white,rgb(113, 113, 149));
+    width:150px;
+    height:30px;
+    border:1px solid rgb(255, 255, 255) ;
+    border-radius: 10px;
+    cursor:grab;
+    font-weight: bolder;
+    padding:5px;
+    font-size: 15px;
+    color: rgb(22, 41, 116);
+}
+.card-details{
+    color:rgb(66, 73, 170);
+    font-weight: bolder;
+    font-size:15px;
+}
+.site{
+    color: rgb(6, 61, 116);
+}

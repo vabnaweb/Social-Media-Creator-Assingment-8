@@ -1,0 +1,98 @@
+[
+    {
+      "Site": "Facebook",
+      "Creator": "Mark Zuckerberg ",
+      "Born": "May 14, 1984 (age 37 years), White Plains, New York, United States",
+      "Email": "Mark Zuckerberg@gmail.com",
+      "Salary": 352000000,
+      "img": "https://media.vanityfair.com/photos/5d41c7688df537000832361b/4:3/w_2668,h_2001,c_limit/GettyImages-945005812.jpg"
+    },
+    {
+      "Site": "Instagram",
+      "Creator": "Kevin Systrom",
+      "Born": "December 30, 1983 (age 37 years), Holliston, Massachusetts, United States",
+      "Email": "Kevin Systrom@gmail.com",
+      "Salary": 320000000,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F58c1a2eba7ea431f321ad96b%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D63%26cropX2%3D733%26cropY1%3D13%26cropY2%3D683"
+    },
+    {
+      "Site": "Google",
+      "Creator": "Larry Page",
+      "Born": "  March 26, 1973 (age 48 years), Lansing, Michigan, United States",
+      "Email": "Larry Page@gmail.com",
+      "Salary": 1810000000,
+      "img": "https://www.biography.com/.image/t_share/MTc5ODc2NTUzODU1ODcwOTY1/gettyimages-83414114.jpg"
+    },
+    {
+      "Site": "Gmail",
+      "Creator": "Paul Buchheit",
+      "Born": "November 7, 1977 (age 43 years), Webster, New York, United States",
+      "Email": " Paul Buchheit@gmail.com ",
+      "Salary": 150000000,
+      "img": "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/7373341/image/4ed0d2120cd1e545d00d77ddeaaada20"
+    },
+    {
+      "Site": "WhatsApp",
+      "Creator": "Jan Koum",
+      "Born": "February 24, 1976 (age 45 years), Kyiv, Ukraine",
+      "Email": "  Jan Koum@gmail.com",
+      "Salary": 3520000000,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5d8a61aa22254b0008e15a3f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D46%26cropX2%3D1310%26cropY1%3D63%26cropY2%3D1329"
+    },
+    {
+      "Site": "LinkedIn",
+      "Creator":"Allen Blue",
+      "Born": "February 4, 1986 (age 45 years), Kyiv, Ukraine",
+      "Email": "Allen Blue@gmail.com",
+      "Salary": 2120000000,
+      "img": "data:image/jpeg;base64,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"
+    },
+    {
+      "Site": "Twitter",
+      "Creator": "Noah Glass",
+      "Born": "February 27, 1996 (age 45 years), Kyiv, Ukraine",
+      "Email": "Noah Glass@gmail.com",
+      "Salary": 2120000000,
+      "img": "https://pbs.twimg.com/profile_images/1400501029809033218/DF472hNK_400x400.jpg"
+    },
+    {
+      "Site": "YouTube",
+      "Creator": "Jawed Karim",
+      "Born": "October 28, 1979 (age 41 years), Merseburg, Germany",
+      "Email": " Jawed Karim@gmail.com",
+      "Salary": 2010000000,
+      "img": "https://images.thequint.com/thequint%2F2019-02%2Fabc7abb4-acea-4a6f-8826-b13e37eaf446%2Fjawed_karim.jpg"
+    },
+    {
+      "Site": "Pinterest",
+      "Creator": "Evan Sharp",
+      "Born": "January 1, 1982 (age 39 years), York, Pennsylvania, United States",
+      "Email": "Evan Sharp@gmail.com",
+      "Salary": 150000000,
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5a8ed37ea7ea431690141785%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D375%26cropX2%3D1281%26cropY1%3D114%26cropY2%3D1020"
+    },
+    {
+      "Site": "Tumblr",
+      "Creator": "David Karp",
+      "Born": "July 6, 1986 (age 35 years), New York, New York, United States",
+      "Email": "David Karp@gmail.com",
+      "Salary": 3110000000,
+      "img": "https://s.abcnews.com/images/Business/gty_david_karp_mt_141203_4x3t_992.jpg"
+    },
+    {
+      "Site": "Reddit",
+      "Creator": "Alexis Ohanian",
+      "Born": "April 24, 1983 (age 38 years), New York, New York, United States",
+      "Email": " Alexis Ohanian@gmail.com",
+      "Salary": 110000000,
+      "img": "https://www.incimages.com/uploaded_files/image/1920x1080/IN0417COV01_163376.jpg"
+    },
+    {
+      "Site": "Quora",
+      "Creator": "Charlie Cheever",
+      "Born": "August 2, 1981 (age 40 years), Pittsburgh, Pennsylvania, United States",
+      "Email": "Charlie Cheever@gmail.com ",
+      "Salary": 4500000000,
+      "img": "https://avatars.githubusercontent.com/u/56719?v=4"
+    }
+  ]
