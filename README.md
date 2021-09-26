@@ -3,7 +3,7 @@
 
 
  1
- we found here todays popular social media creators  detail
+ we found here todays popular social media creators  details
 
 2
 you will know how much their salary is and how much they earn per day by their sites
